@@ -1,1 +1,2 @@
-hello this is simple README file 
+hello this is simple README file
+made some changes
