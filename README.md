@@ -8,3 +8,6 @@ made changes from master
 =======
 made some bad changes 
 >>>>>>> verybad
+
+
+new changes are done 
