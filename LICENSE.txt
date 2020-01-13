@@ -1,2 +1,6 @@
 hello this is license file 
+verybad
 made changes by verybad branch 
+
+new changes are made in license file 
+master
